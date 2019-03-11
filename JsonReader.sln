@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonReader", "JsonReader\JsonReader.csproj", "{AE4C09DF-1D28-454E-995A-FE5502254D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4C09DF-1D28-454E-995A-FE5502254D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4C09DF-1D28-454E-995A-FE5502254D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4C09DF-1D28-454E-995A-FE5502254D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4C09DF-1D28-454E-995A-FE5502254D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062A2773-B15C-4AEF-AA2C-659667602EDB}
+	EndGlobalSection
+EndGlobal
